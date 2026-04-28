@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "KitPVPClub.aternos.me",
+    "port": 17703,
     "version": "1.21.1"
   },
   "position": {
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "This bot is keeping this server online!",
+        "Code by Slobos, subcribe to Slobos for more uptime for the server!",
+        "Source code is @ github.com/ItTommy22Toad/Slovos-AFK-BOT/"
       ]
     },
     "chat-log": true,
